@@ -27,7 +27,7 @@ public class EmergencyRoomGUI {
     private JFrame frame;
     private DrawingPanel drawingPanel;
     
-    private static EmergencyRoomGUI instance;
+    private static EmergencyRoomGUI  instance;
     
     private Collection<Area> areas;
     private Collection<Patient> patients;
