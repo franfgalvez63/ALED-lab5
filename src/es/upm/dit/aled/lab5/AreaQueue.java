@@ -13,6 +13,6 @@ import es.upm.dit.aled.lab5.gui.Position2D;
  * @author rgarciacarmona
  */
 public class AreaQueue extends Area {
-
+  
 	// TODO
 }
