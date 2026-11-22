@@ -61,7 +61,7 @@ public class EmergencyRoomGUI {
 	 * @return The EmergencyRoomGUI instance.
 	 */
     public static EmergencyRoomGUI getInstance() {
-        if (instance == null) {
+        if (instance == null) {  
             throw new IllegalStateException("EmergencyRoomGUI not yet initialized. Call initialize() first.");
         }
         return instance;
